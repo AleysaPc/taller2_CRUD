@@ -1,0 +1,15 @@
+body{
+    background-image: url("../img/fondo11.jpg");
+    background-size: 30%;
+}
+h2{
+    color: beige;
+}
+.mi-elemento {
+    width: 200px; /* Ancho del elemento */
+    height: 100px; /* Alto del elemento */
+    border: 2px solid black; /* Borde sólido de 2 píxeles en color negro */
+    background-color: #f0f0f0; /* Color de fondo gris claro */
+  }
+
+  
